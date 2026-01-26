@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Where do the Dursleys live?",
+    "answer": "They live at number four, Privet Drive, in Little Whinging."
+  },
+  {
+    "question": "What company does Vernon Dursley work for?",
+    "answer": "He is the director of Grunnings, a company that makes drills."
+  },
+  {
+    "question": "Why do the Dursleys fear being associated with the Potters?",
+    "answer": "They believe the Potters are strange and involved in abnormal, mysterious things."
+  },
+  {
+    "question": "What unusual behavior of animals is noticed on the day the story begins?",
+    "answer": "Owls are seen flying during the daytime."
+  },
+  {
+    "question": "What strange sight does Vernon Dursley see on his way to work?",
+    "answer": "He sees a cat that appears to be reading a map."
+  },
+  {
+    "question": "What term does a wizard use to describe Vernon Dursley?",
+    "answer": "He is called a Muggle."
+  },
+  {
+    "question": "Who is the wizard that turns off the street lamps on Privet Drive?",
+    "answer": "Albus Dumbledore."
+  },
+  {
+    "question": "What magical object does Dumbledore use to extinguish the lights?",
+    "answer": "A device called the Put-Outer."
+  },
+  {
+    "question": "Who is revealed to be disguised as the tabby cat?",
+    "answer": "Professor Minerva McGonagall."
+  },
+  {
+    "question": "What happened to Lily and James Potter?",
+    "answer": "They were killed by Voldemort."
+  },
+  {
+    "question": "Why is Harry Potter famous in the wizarding world?",
+    "answer": "He survived an attack by Voldemort when no one else could."
+  },
+  {
+    "question": "What distinctive mark does Harry have on his forehead?",
+    "answer": "A lightning-shaped scar."
+  },
+  {
+    "question": "Why does Dumbledore place Harry with the Dursleys?",
+    "answer": "To protect him and allow him to grow up away from fame."
+  },
+  {
+    "question": "Who brings Harry to Privet Drive as a baby?",
+    "answer": "Rubeus Hagrid."
+  },
+  {
+    "question": "How does Hagrid transport Harry?",
+    "answer": "On a flying motorcycle borrowed from Sirius Black."
+  },
+  {
+    "question": "Where does Harry sleep in the Dursleys' house?",
+    "answer": "In a cupboard under the stairs."
+  },
+  {
+    "question": "Which animal does Harry talk to at the zoo?",
+    "answer": "A boa constrictor."
+  },
+  {
+    "question": "What unusual event allows the snake to escape at the zoo?",
+    "answer": "The glass of the enclosure mysteriously disappears."
+  },
+  {
+    "question": "Why do the Dursleys try to escape their house during Harry’s birthday?",
+    "answer": "They are trying to avoid letters being delivered to Harry."
+  },
+  {
+    "question": "Who finally delivers Harry’s Hogwarts letter in person?",
+    "answer": "Rubeus Hagrid."
+  }
+]
+
